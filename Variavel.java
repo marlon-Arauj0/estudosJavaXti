@@ -11,6 +11,5 @@ public class Variavel{
 	  
 		System.out.println(nome);
 		System.out.println(idade);
-		System.out.println(casado);
 	}
 }
