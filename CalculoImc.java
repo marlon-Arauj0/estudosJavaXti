@@ -9,7 +9,7 @@ public class CalculoImc {
   	System.out.println("Informe seu peso");
   	double peso = s.nextDouble();
   	
-  	System.out.println("informe sua altura em cm");
+  	System.out.println("informe sua altura em METROS");
   	double altura = s.nextDouble();
   	
   	double imc = peso / (altura * altura);
@@ -31,4 +31,4 @@ public class CalculoImc {
   		System.out.println("Super-Obesidade");
   	}
   }
-} 
+}
